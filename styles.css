@@ -1,0 +1,54 @@
+a{
+	text-decoration: none;
+	color: black;
+}
+ul{
+	
+}
+li{
+	list-style: none;
+	display: inline;
+}
+nav{
+	float: right;
+}
+
+header{
+	background-color: grey;
+
+	
+}
+
+#main-content{
+	background-color: green;
+
+}
+#left{
+	background-color: white;
+	color: black;
+	width: 300px;
+	float: left;
+	
+
+
+}
+#right{
+	background-color: purple;
+	width: 300px;
+	float: left;
+	
+
+}
+#logo{
+
+
+	
+}
+footer{
+
+	background-color: blue;
+	color: white;
+	clear: both;
+
+
+}
