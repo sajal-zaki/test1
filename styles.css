@@ -2,53 +2,140 @@ a{
 	text-decoration: none;
 	color: black;
 }
-ul{
-	
-}
+
 li{
 	list-style: none;
 	display: inline;
+	
 }
 nav{
 	float: right;
 }
+#menu{
+	color: white;
+	font-size: 15;
+	padding: 15px;
 
+}
+#he1{
+	font-size: 25;
+	color: #000066;
+
+}
+h2{
+	border-style: inset;
+	color: #000066;
+	padding: 10px;
+}
 header{
-	background-color: grey;
-
+	border-style: ridge;
+	background-color: #ff4d4d;
 	
 }
+h1, nav{
+	display: inline;
+}
 
-#main-content{
-	background-color: green;
+#social{
+	font-size: 20;
+	color: white;
+	font-family: Georgia;
+	background-color: #3d0099;
+	padding: 5px;
+	border-style: dashed;
+	text-align: left;
 
+}
+#social2{
+	font-size: 20;
+	color: white;
+	font-family: Georgia;
+	background-color: #66b3ff;
+	padding: 5px;
+	border-style: dashed;
+	text-align: center;
+
+}
+
+body{
+	background-image: url("http://www.cs.qc.edu/photos/tower-manhattan.jpg");
+   background-size: 100% 100%;
+    background-repeat: no-repeat;
 }
 #left{
 	background-color: white;
 	color: black;
+	border-style: ridge;
 	width: 300px;
 	float: left;
+	padding: 135px;
 	
 
 
 }
 #right{
-	background-color: purple;
-	width: 300px;
+	background-color: white;
+	width: 410px;
+	border-style: ridge;
+	height: 980px;
 	float: left;
+	padding: 130px;
 	
 
 }
 #logo{
+	padding: 30px;
+	color: white;
+
 
 
 	
 }
+#one{
+	background-color: white;
+	width:400px;
+    float:left;
+    padding:20px;
+    border-style: ridge;
+    font-size: 17;
+
+}
+#two{
+	background-color: white;
+	width:400px;
+    float:left;
+    padding:20px;
+    border-style: ridge;
+    font-size: 17;
+    height: 560px;
+
+}
+#three
+{
+	background-color: white;
+	width:300px;
+    float:left;
+    padding:26px;
+    border-style: ridge;
+    height: 550px;
+    font-size: 17;
+
+}
+
+
+
 footer{
 
-	background-color: blue;
-	color: white;
+	background-color: #ccccff;
+	color: black;
 	clear: both;
+	font-size: 12;
+	text-align: center;
+	padding: 5px;
+	border-style: ridge;
 
 
+}
+#main-thing{
+	background-color: black;
 }
